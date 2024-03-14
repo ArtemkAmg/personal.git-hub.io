@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+}
+.title{
+    margin-left:100px ;
+    margin-top: 70px;
+    color: #fff;
+}
+.block_picture{
+    width: 700px;
+    height: 800px;
+}
+.main_photo{
+    width: 500px;
+    height: 700px;
+    margin-left: 420px;
+    margin-top: -420px;
+}
+.i_with_fiend{
+    float: right;
+    width: 290px;
+    height: 390px;
+    margin-top: -110px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.suuuuuuu{
+    float: right;
+    width: 580px;
+    height: 300px;
+    margin-right: 13px;
+    margin-top: -420px;
+}
+.i_on_tree{
+    float: right;
+    width: 285px;
+    height: 390px;
+    margin-top: -110px;
+    margin-right: -20px;
+}
+.container_about_me{
+    width: 200px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 100px;
+}
+p, li{
+    width: 250px;
+    color: #fff;
+}
+ul{
+    margin: 10px;
+}
+.selfi{
+    width: 200px;
+    height:200px ;
+    margin-left:120px ;
+    margin-top: 140px;
+}
+li{
+    margin-bottom: 5px;
+}
